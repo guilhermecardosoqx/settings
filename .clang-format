@@ -1,0 +1,7 @@
+BasedOnStyle: LLVM
+BreakBeforeBraces: Mozilla
+AccessModifierOffset: -4
+ColumnLimit: 200
+IncludeBlocks: Merge
+IndentWidth: 4
+SeparateDefinitionBlocks: Always
